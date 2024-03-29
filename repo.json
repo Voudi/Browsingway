@@ -3,8 +3,8 @@
   "Author": "Voudi",
   "Name": "Windowtests",
   "InternalName": "WINDOWTESTS",
-  "AssemblyVersion": "2.5.0.0",
-  "TestingAssemblyVersion": "2.5.0.0",
+  "AssemblyVersion": "1.6.0",
+  "TestingAssemblyVersion": "1.6.0",
   "Description": "Voudi testing some windows",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Voudi/Browsingway",
@@ -17,8 +17,8 @@
   "Punchline": "Voudis Tests",
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip",
-  "DownloadLinkTesting": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip",
-  "DownloadLinkUpdate": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip"
+  "DownloadLinkInstall": "https://github.com/Voudi/Browsingway/archive/refs/tags/Test.zip",
+  "DownloadLinkTesting": "https://github.com/Voudi/Browsingway/archive/refs/tags/Test.zip",
+  "DownloadLinkUpdate": "https://github.com/Voudi/Browsingway/archive/refs/tags/Test.zip"
 }
 ]
