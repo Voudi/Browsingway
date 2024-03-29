@@ -1,0 +1,24 @@
+[
+{
+  "Author": "Voudi",
+  "Name": "Windowtests",
+  "InternalName": "WINDOWTESTS",
+  "AssemblyVersion": "2.5.0.0",
+  "TestingAssemblyVersion": "2.5.0.0",
+  "Description": "Voudi testing some windows",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Voudi/Browsingway",
+  "Tags": [
+    "plugin"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Voudi/Browsingway/main/Browsingway/images/icon.png",
+  "Punchline": "Voudis Tests",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadLinkInstall": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip",
+  "DownloadLinkTesting": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip",
+  "DownloadLinkUpdate": "https://github.com/Voudi/Browsingway/archive/refs/tags/TEST.zip"
+}
+]
